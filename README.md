@@ -391,27 +391,6 @@ Prostate_Cancer/
 
 This project is released under the **MIT License**, enabling academic and commercial use with appropriate attribution.
 
-### Citation
-
-When using this dashboard or research findings in academic or clinical publications, please cite:
-
-**BibTeX Format:**
-> @software{laggui2025prostate,  
-> &nbsp;&nbsp;&nbsp;&nbsp;title={Prostate Cancer Data Analytics Dashboard},  
-> &nbsp;&nbsp;&nbsp;&nbsp;author={Laggui, Joel},  
-> &nbsp;&nbsp;&nbsp;&nbsp;year={2025},  
-> &nbsp;&nbsp;&nbsp;&nbsp;url={https://github.com/GITLAGGUI/Prostate-Cancer-Analysis},  
-> &nbsp;&nbsp;&nbsp;&nbsp;note={Kaggle Research: https://www.kaggle.com/code/joellaggui/prostate-cancer-risk-analysis-data-driven-insight}  
-> }
-
-**APA Style:**
-> Laggui, J. (2025). *Prostate Cancer Data Analytics Dashboard* [Computer software]. GitHub. https://github.com/GITLAGGUI/Prostate-Cancer-Analysis
-
-**MLA Style:**
-> Laggui, Joel. "Prostate Cancer Data Analytics Dashboard." *GitHub*, 2025, github.com/GITLAGGUI/Prostate-Cancer-Analysis.
-
-**Repository:** [https://github.com/GITLAGGUI/Prostate-Cancer-Analysis](https://github.com/GITLAGGUI/Prostate-Cancer-Analysis)
-
 ---
 
 ## About this Dataset

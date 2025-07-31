@@ -423,3 +423,61 @@ The dataset is purely synthetic and contains no real patient information. It is 
 ## Disclaimer
 
 This dashboard is designed for clinical research and educational purposes. All clinical decisions should be made in consultation with qualified healthcare professionals. The analytics and predictions provided are supplementary tools and should not replace clinical judgment or established medical protocols.
+
+
+---
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### MIT License Summary
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+
+### Usage Rights
+
+✅ **Commercial Use** - Use this project for commercial purposes  
+✅ **Modification** - Modify and adapt the code to your needs  
+✅ **Distribution** - Distribute copies of the original or modified code  
+✅ **Private Use** - Use the project for private/personal purposes  
+
+### Conditions
+
+📋 **License and Copyright Notice** - Include the original license and copyright notice in any copy of the software  
+
+### Limitations
+
+❌ **Liability** - The software is provided "as is" without warranty  
+❌ **Warranty** - No warranties are provided with this software  
+
+---
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+
+### How to Contribute
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+---
+
+## Contact
+
+**Joel Laggui** - [@joellaggui](https://github.com/GITLAGGUI)
+
+**Project Link:** [https://github.com/GITLAGGUI/Prostate-Cancer-Analysis](https://github.com/GITLAGGUI/Prostate-Cancer-Analysis)
+
+**Portfolio:** [https://joellaggui.vercel.app](https://joellaggui.vercel.app)
+
+---
+
+<div align="center">
+  <p><strong>Made with ❤️ for Healthcare Analytics</strong></p>
+  <p>© 2025 Joel Laggui. Licensed under MIT License.</p>
+</div>

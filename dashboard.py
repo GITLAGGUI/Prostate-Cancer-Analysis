@@ -137,7 +137,7 @@ def load_data():
     try:
         # Try to load actual data files
         # You can modify this to load your specific data files
-        data = pd.read_csv('prostate_cancer_data.csv')
+        data = pd.read_csv('data/synthetic_prostate_cancer_risk.csv')
     except FileNotFoundError:
         # Use sample data if no data file exists
         data = generate_sample_data()

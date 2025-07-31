@@ -395,16 +395,20 @@ This project is released under the **MIT License**, enabling academic and commer
 
 When using this dashboard or research findings in academic or clinical publications, please cite:
 
-```
-Prostate Cancer Data Analytics Dashboard
-Author: Joel Laggui
+**BibTeX Format:**
+> @software{laggui2025prostate,  
+> &nbsp;&nbsp;&nbsp;&nbsp;title={Prostate Cancer Data Analytics Dashboard},  
+> &nbsp;&nbsp;&nbsp;&nbsp;author={Laggui, Joel},  
+> &nbsp;&nbsp;&nbsp;&nbsp;year={2025},  
+> &nbsp;&nbsp;&nbsp;&nbsp;url={https://github.com/GITLAGGUI/Prostate-Cancer-Analysis},  
+> &nbsp;&nbsp;&nbsp;&nbsp;note={Kaggle Research: https://www.kaggle.com/code/joellaggui/prostate-cancer-risk-analysis-data-driven-insight}  
+> }
 
-Year: 2025
-Repository: https://github.com/GITLAGGUI/Prostate-Cancer-Analysis
-Kaggle Research: https://www.kaggle.com/code/joellaggui/prostate-cancer-risk-analysis-data-driven-insight
-```
+**APA Style:**
+> Laggui, J. (2025). *Prostate Cancer Data Analytics Dashboard* [Computer software]. GitHub. https://github.com/GITLAGGUI/Prostate-Cancer-Analysis
 
-Or cite as:
+**MLA Style:**
+> Laggui, Joel. "Prostate Cancer Data Analytics Dashboard." *GitHub*, 2025, github.com/GITLAGGUI/Prostate-Cancer-Analysis.
 
 **Repository:** [https://github.com/GITLAGGUI/Prostate-Cancer-Analysis](https://github.com/GITLAGGUI/Prostate-Cancer-Analysis)
 
@@ -424,7 +428,6 @@ The dataset is purely synthetic and contains no real patient information. It is 
 
 This dashboard is designed for clinical research and educational purposes. All clinical decisions should be made in consultation with qualified healthcare professionals. The analytics and predictions provided are supplementary tools and should not replace clinical judgment or established medical protocols.
 
-
 ---
 
 ## License
@@ -437,19 +440,19 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ### Usage Rights
 
-✅ **Commercial Use** - Use this project for commercial purposes  
-✅ **Modification** - Modify and adapt the code to your needs  
-✅ **Distribution** - Distribute copies of the original or modified code  
-✅ **Private Use** - Use the project for private/personal purposes  
+**Commercial Use** - Use this project for commercial purposes
+**Modification** - Modify and adapt the code to your needs
+**Distribution** - Distribute copies of the original or modified code
+**Private Use** - Use the project for private/personal purposes
 
 ### Conditions
 
-📋 **License and Copyright Notice** - Include the original license and copyright notice in any copy of the software  
+**License and Copyright Notice** - Include the original license and copyright notice in any copy of the software
 
 ### Limitations
 
-❌ **Liability** - The software is provided "as is" without warranty  
-❌ **Warranty** - No warranties are provided with this software  
+**Liability** - The software is provided "as is" without warranty
+**Warranty** - No warranties are provided with this software
 
 ---
 
@@ -469,7 +472,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## Contact
 
-**Joel Laggui** - [@joellaggui](https://github.com/GITLAGGUI)
+**Joel Laggui** - [@jlaggui472](https://github.com/GITLAGGUI)
 
 **Project Link:** [https://github.com/GITLAGGUI/Prostate-Cancer-Analysis](https://github.com/GITLAGGUI/Prostate-Cancer-Analysis)
 
@@ -478,6 +481,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ---
 
 <div align="center">
-  <p><strong>Made with ❤️ for Healthcare Analytics</strong></p>
-  <p>© 2025 Joel Laggui. Licensed under MIT License.</p>
+  <p><strong>Made with ❤️ for Health care Analysis</strong></p>
+  <p>© 2025 Joel Laggui. Licenced under MIT License</p>
 </div>
